@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handbook Section"
+  short_description: "Coordinate affordable bilingual handbook drafts"
+  default_prompt: "Use $handbook-section to resume or draft a schema.yaml section with compact independent reviews and a bounded call budget."
