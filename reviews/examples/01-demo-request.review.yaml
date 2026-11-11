@@ -1,0 +1,11 @@
+claims:
+- claim: Synthetic format example, not a company policy.
+  provision: Synthetic fixture paragraph
+  source: demo_rules
+  supported: true
+question_refs:
+- 00-Q99
+reader_hash: 03c5c5fde31c
+workflow:
+  bilingual_review: synthetic fixture only
+  source_review: synthetic fixture only

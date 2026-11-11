@@ -1,0 +1,6 @@
+sources:
+  demo_rules:
+    title: Synthetic demonstration rules
+    type: authority
+    url: null
+    watch: false

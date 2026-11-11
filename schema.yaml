@@ -1,0 +1,13 @@
+folders:
+  examples:
+    articles:
+    - file: 01-demo-request.md
+      owner: hr
+      review: annual-free
+      status: draft
+    - file: 02-demo-calculation.md
+      owner: hr
+      review: annual-free
+      status: draft
+    title: Authoring examples
+    title_sv: "F\xF6rfattarexempel"

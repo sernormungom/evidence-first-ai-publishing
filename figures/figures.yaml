@@ -1,0 +1,13 @@
+figures:
+  example_daily_amount:
+    source: demo_rules
+    status: needs_verification
+    unit: illustrative units per day
+    unit_sv: illustrativa enheter per dag
+    value: 20
+  example_total_amount:
+    source: demo_rules
+    status: needs_verification
+    unit: illustrative units
+    unit_sv: illustrativa enheter
+    value: 40

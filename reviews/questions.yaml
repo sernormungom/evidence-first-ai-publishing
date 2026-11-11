@@ -1,0 +1,9 @@
+questions:
+  00-Q99:
+    blocking: true
+    evidence: Synthetic fixture; no real arrangement exists.
+    kind: decision
+    owner: Demo owner (unassigned)
+    question: 'HR INTERNAL DEMO TASK: supply the fictional reviewer assignment and
+      supporting document.'
+    status: open
