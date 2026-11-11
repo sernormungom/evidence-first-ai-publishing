@@ -60,8 +60,6 @@ def cli_path():
 def require_credentials():
     """Exit before any work is written if the backend cannot run."""
     _check_backend()
-    if not os.environ.get("HANDBOOK_MODEL", "").strip():
-        sys.exit("Set HANDBOOK_MODEL to a provider-supported model before live inference.")
     if BACKEND == "cli":
         path = cli_path()
         if path is None:
